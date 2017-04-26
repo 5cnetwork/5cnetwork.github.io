@@ -4,7 +4,7 @@ title: 5C NETWORK
 subtitle: Every hospital's and diagnostic centre's private radiologist
 ---
 
-###This is 5C Network. Welcome you to our page:
+**This is 5C Network. Welcome you to our page:**
 
 Radiology is a specialized branch of medicine using medical imaging technologies to diagnose and treat patients. The role of the radiologist involvement has increased drastically in the clinical management of patients with the development of medical image technology such as X-Ray, CT scan, MRI, PET scan and etc.
 
