@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diagnosing a diagnostic process
+title: Diagnosing the diagnostic process
 subtitle: 5C network 
 bigimg: /img/diagonising.jpg
 ---
