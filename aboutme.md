@@ -4,5 +4,5 @@ title: 5C NETWORK
 subtitle: Every hospital's and diagnostic centre's private radiologist
 ---
 
-#about the company
+A Brief about company to be added soon
 
