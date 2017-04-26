@@ -22,7 +22,7 @@ A country with a billion population and around 8000 radiologist leads to a huge 
 The current major challenge face by the hospitals or diagnosis centres is the limited number of radiologist in order to provide a better medical decision for patient. A proper medical decision is needed to plan and evaluates a patient’s treatment in time. 
 The challenge for scholastic radiology in India is thusly going to be the issue of teaching and preparing an adequate number of inhabitants which takes years of practice. Considering this huge gap between the diagnosis centre, clinician and radiologist the concept of making a bridge among them came in scenario.
 
-**What 5C Network does? **
+**What 5C Network does?**
 
 5C Network provides a platform by connecting hospitals or diagnosis centres with the radiologists through their portal providing multiple services from viewing scanned images with different tools to examine the image to the report creating for the patient and the reference for the clinician. Every hospital's and diagnostic centre's private radiologist. An efficient and cost effective way to approach a medical problem.
 
