@@ -80,6 +80,8 @@ share-links-active:
   google: true
   linkedin: true
 
+disqus:
+  comment: true
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
