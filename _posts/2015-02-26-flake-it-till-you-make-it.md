@@ -2,7 +2,7 @@
 layout: post
 title: Diagnosing a diagnostic process
 subtitle: 5C network 
-bigimg: /img/path.jpg
+bigimg: /img/diagonising.jpg
 ---
 
 Radiology is a specialized branch of medicine using medical imaging technologies to diagnose and treat patients. The role of the radiologist involvement has increased drastically in the clinical management of patients with the development of medical image technology such as X-Ray, CT scan, MRI, PET scan and etc.
