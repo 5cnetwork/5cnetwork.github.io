@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diagnosing a diagnostic process
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: 5C network 
 bigimg: /img/path.jpg
 ---
 
