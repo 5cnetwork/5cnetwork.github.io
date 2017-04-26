@@ -5,7 +5,7 @@ subtitle: 5C network
 date: 2017-04-26 
 bigimg: /img/diagonising.jpg
 ---
-- **_It has become appallingly obvious that our technology has exceeded our humanity._**
+> "**_It has become appallingly obvious that our technology has exceeded our humanity._**"
 
                                                              - Albert Einstein
 
@@ -35,7 +35,7 @@ The process of 5C network begins when a doctor recommend patient to do a diagnos
 
 5C Network facilities are available today in 40+ hospitals and radiologist in the Karnataka and further looking for more hospitals and radiologist to come under their umbrella. 
 
-- _**FUTURE** of health-care depends on how we empower ourselves with technology **TODAY**._
+> " _**FUTURE** of health-care depends on how we empower ourselves with technology **TODAY**._"
 
                                               Soumyo Dey, Intern at 5C Network
 
