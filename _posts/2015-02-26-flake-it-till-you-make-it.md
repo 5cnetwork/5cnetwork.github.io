@@ -5,6 +5,9 @@ subtitle: 5C network
 date: 2017-04-26 
 bigimg: /img/diagonising.jpg
 ---
+**_It has become appallingly obvious that our technology has exceeded our humanity._**
+
+                                                             - Albert Einstein
 
 Radiology is a specialized branch of medicine using medical imaging technologies to diagnose and treat patients. The role of the radiologist involvement has increased drastically in the clinical management of patients with the development of medical image technology such as X-Ray, CT scan, MRI, PET scan and etc.
 
