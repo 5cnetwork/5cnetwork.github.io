@@ -29,10 +29,13 @@ The challenge for scholastic radiology in India is thusly going to be the issue 
 
 5C Network provides a platform by connecting hospitals or diagnosis centres with the radiologists through their portal providing multiple services from viewing scanned images with different tools to examine the image to the report creating for the patient and the reference for the clinician. Every hospital's and diagnostic centre's private radiologist. An efficient and cost effective way to approach a medical problem.
 
-The feature of providing medical report is a key factor for the clinician and patient as it might involves both medical and legal aspects i.e., Medicolegal cases which can lead to a police case. 
+The feature of providing medical report is a key factor needed for the clinician and patient as it might involves both medical and legal aspects i.e., Medicolegal where clinician might need to inform law enforcement agency.
 
-The process of 5C network begins when a doctor recommend patient to do a diagnosis which are facilitate by some hospitals or private diagnostic centres where technician will operate the tools. On the one side where technician and clinician need service from the radiologist to have broader view on diagnosing the patient, this platform connects it to the desired radiologist keeping the time constraint providing online radiologist support and every radiologist is empowered to reach out to these hospitals and provide their expertise. 
+The process of 5C network begins when a doctor recommend patient to do a diagnosis which are facilitate by some hospitals or private diagnostic centres where technician will operate the tools. Where technician and clinician need service from the radiologist to have broader view on diagnosing the patient, this platform connects it to the desired radiologist keeping the time constraint providing online radiologist support and every radiologist is empowered to reach out to these hospitals and provide their expertise. 
 
 5C Network facilities are available today in 40+ hospitals and radiologist in the Karnataka and further looking for more hospitals and radiologist to come under their umbrella. 
 
+_**FUTURE** of health-care depends on how we empower ourselves with technology **TODAY**._
+
+                                              -Soumyo Dey, Intern at 5C Network
 
