@@ -14,3 +14,7 @@ Radiology is a specialized branch of medicine using medical imaging technologies
 
 “_France, which performs more CT exams than any other country in Europe, faces a double threat regarding its radiologist population_”
 
+**Challenges Faced by people:**
+
+**What 5C Network does?**
+
