@@ -12,11 +12,11 @@ Radiology is a specialized branch of medicine using medical imaging technologies
 
 **Some Statistics:**
 
- A country with a population of a billion and around 8000 radiologists leads to a huge imbalance affecting millions of lives. Now according to the Indian Journal of Radiology and imaging, “In the next decade, conventional radiology will have a very limited role to play. USG facilities will double and CT scan and MRI will continue to grow in an exponential way, with more and more indications being included. Molecular imaging will become available in all the big metros. India will need about 20,000 radiologists if the benefits of imaging are to reach every corner of the country.”
+ A country with a population of a billion and around 8000 radiologists leads to a huge imbalance affecting millions of lives. Now according to the Indian Journal of Radiology and imaging, “_In the next decade, conventional radiology will have a very limited role to play. USG facilities will double and CT scan and MRI will continue to grow in an exponential way, with more and more indications being included. Molecular imaging will become available in all the big metros. India will need about 20,000 radiologists if the benefits of imaging are to reach every corner of the country._”
  
-“Growth rates of CT and MRI in Sweden have continuously exceeded growth rates of practicing radiologists”, according to a new report from telemedicine firm TMC.
+“_Growth rates of CT and MRI in Sweden have continuously exceeded growth rates of practicing radiologists_”, according to a new report from telemedicine firm TMC.
 
-“France, which performs more CT exams than any other country in Europe, faces the double threat of an aging radiologist population and an unequal distribution of radiologists around the country.”
+“_France, which performs more CT exams than any other country in Europe, faces the double threat of an aging radiologist population and an unequal distribution of radiologists around the country._”
 
 **Challenges Faced by people:**
 
