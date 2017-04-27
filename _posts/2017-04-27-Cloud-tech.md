@@ -30,7 +30,7 @@ Cloud itself is a walking house of hardware and software designed to provide eas
   
 **Cloud technology**
 
-The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+The underlying concept of cloud computing dates back to 1969. Later Amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement. It started in 2006 when Amazon began offering its simple storage service and soon following up with its Elastic Compute Service. This is a secure and resizable compute capacity in the cloud. 
 
 It has as of now began its revolution in the IT segment. Improvement in the quantity of Service provider and the quantity of the start-up relying on cloud based technology has also increased. Cloud had made everything cheaper and better than the on-premise services. The services offered by the cloud is the reason for its tremendous growth. In the previous couple of years, cloud had met all the computational necessities of the client and changed the way of processing. 
 
@@ -42,13 +42,11 @@ Types of services provided by cloud:
 * [software as a service (Saas)](https://msdn.microsoft.com/en-us/library/aa905332.aspx)  
 
 Types of cloud deployment: 
-*	public: A public cloud is basically use the internet to make resources, such as applications (also known as Software-as-a-service) and storage, accessible to the overall population, or on a ‘public cloud.  Examples include Amazon Elastic Compute Cloud (EC2), IBM’s Blue Cloud and Windows Azure Services Platform. 
+*	**public:** A public cloud is basically use the internet to make resources, such as applications (Software-as-a-service) and storage, accessible to the overall population, or on a public cloud.  Examples include Amazon Elastic Compute Cloud, IBM’s Blue Cloud and Windows Azure Services Platform. The public cloud may not be the right fit for every organization. The model can limit configuration, security, and making it less ideal for services to process sensitive data.
 
-*	private: The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+*	**private:** A private cloud is particularly modelled for cloud computing in which only specified user can operate. This model provides computing power as a service within a environment using computing resources.  Nonetheless, these resources are only accessible by a single o organisation with greater control and privacy. This is usually not an option for the average Small-to-Medium sized business and is most typically put to use by large enterprises. 
 
-*	hybrid: The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+*	**hybrid:** A hybrid cloud is a incorporated cloud using both private and public clouds. an enterprise could implement hybrid cloud hosting to host their e-commerce website within a private cloud, where it is secure and scalable, but their brochure site in a public cloud.
 
-The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
-
-The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+The ever increasing demand of processing power cannot be addressed using the traditional server and the data centre technology. Therefore, we now have cloud computing 
 
