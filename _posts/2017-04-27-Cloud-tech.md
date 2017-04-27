@@ -3,7 +3,7 @@ layout: post
 title: The Era of Cloud Technology 
 subtitle: 5C network
 date: 2017-04-26
-bigimg: /img/cloudfinal.jpg
+bigimg: /img/cloud.jpg
 ---
  
 **_Everyone in the technology world and business are talking about it_**
