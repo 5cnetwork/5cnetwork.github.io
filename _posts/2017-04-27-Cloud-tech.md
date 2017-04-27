@@ -32,6 +32,8 @@ Cloud itself is a walking house of hardware and software designed to provide eas
 
 The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
 
+It has as of now began its revolution in the IT segment. Improvement in the quantity of Service provider and the quantity of the start-up relying on cloud based technology has also increased. Cloud had made everything cheaper and better than the on-premise services. The services offered by the cloud is the reason for its tremendous growth. In the previous couple of years, cloud had met all the computational necessities of the client and changed the way of processing. 
+
 It has as of now began its revolution in the IT segment.
  
 Types of services provided by cloud:
@@ -40,7 +42,13 @@ Types of services provided by cloud:
 * [software as a service (Saas)](https://msdn.microsoft.com/en-us/library/aa905332.aspx)  
 
 Types of cloud deployment: 
-*	[public]()
-*	[private]()
-*	[hybrid]()
+*	public: A public cloud is basically use the internet to make resources, such as applications (also known as Software-as-a-service) and storage, accessible to the overall population, or on a ‘public cloud.  Examples include Amazon Elastic Compute Cloud (EC2), IBM’s Blue Cloud and Windows Azure Services Platform. 
+
+*	private: The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+
+*	hybrid: The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+
+The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
+
+The underlying concept of cloud computing dates back to 1969. Later amazon played the a key role in developments of cloud computing and the new Amazon infrastructure resulted in significant internal efficiency improvement.
 
