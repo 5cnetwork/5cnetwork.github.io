@@ -8,7 +8,7 @@ bigimg: /img/cloudfinal.jpg
  
  ## Everyone in the technology world and business are talking about it
  
- ## Everyone is talking about “the cloud.” But what does it mean?
+ ### Everyone is talking about “the cloud.” But what does it mean?
 
 The word cloud is utilized as an analogy for the Internet, In the most straightforward terms, cloud computing implies getting to information and projects over the Internet rather than your PC's hard drive. 
 
