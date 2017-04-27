@@ -6,9 +6,9 @@ date: 2017-04-26
 bigimg: /img/cloudfinal.jpg
 ---
  
- ## Everyone in the technology world and business are talking about it
+**_Everyone in the technology world and business are talking about it_**
  
- ### Everyone is talking about “the cloud.” But what does it mean?
+ **_Everyone is talking about “the cloud.” But what does it mean?_**
 
 The word cloud is utilized as an analogy for the Internet, In the most straightforward terms, cloud computing implies getting to information and projects over the Internet rather than your PC's hard drive. 
 
@@ -39,7 +39,8 @@ Types of services provided by cloud:
 * [platform as a service (PaaS)](https://azure.microsoft.com/en-in/overview/what-is-paas/)
 * [software as a service (Saas)](https://msdn.microsoft.com/en-us/library/aa905332.aspx)  
 
-Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. 
-Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. 
+Types of cloud deployment: 
+*	[public]()
+*	[private]()
+*	[hybrid]()
 
-If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
