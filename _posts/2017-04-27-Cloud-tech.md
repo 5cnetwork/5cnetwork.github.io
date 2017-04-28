@@ -50,3 +50,13 @@ Types of cloud deployment:
 
 The ever increasing demand of processing power cannot be addressed using the traditional server and the data centre technology. Therefore, we now have cloud computing 
 
+**Cloud in healthcare:**
+
+In view of current use of healthcare assets, it is evaluated that the development in primary care doctor supply won't be sufficient to take care of demand in future. The options we have to overcome this are to either increase the number of doctors or use the assistance of technology.
+
+Utilization of cloud technology has taken off crosswise over multitudinous sectors. In the previous couple of years, medical service ventures have understood the capability of cloud computing and how it can help them to give quality service to patients. Demand for healthcare will proceed to rise, mainly because of the populace maturing and growth but also from the will to stay healthy. 
+
+Healthcare cloud services generally use standard protocols, so connecting them to other systems and applications is typically straightforward. Exchanging health data is also an important factor. But the obstacles are cooperating with the medical technologies where medical data from machines are not designed to associate with internet.
+
+Today the healthcare facility is enhanced by the cloud based healthcare sector that offers the potential for interoperability and integration and it also offers better security and privacy for medical data and health systems.
+ 
