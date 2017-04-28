@@ -23,7 +23,7 @@ description: Site under construction
 
 # List of links in the navigation bar
 navbar-links:
-  About US: "aboutme"
+  About US: "aboutus"
   5C Network home: "http://www.5cnetwork.com/#/home"
 
 # Image to show in the navigation bar - image must be a square (width = height)
