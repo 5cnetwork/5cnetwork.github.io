@@ -34,6 +34,6 @@ The process of 5C network begins when a doctor recommends a patient to do a diag
 
 5C Network facilities are available today in 40+ hospitals and radiologists in the Karnataka and further looking for more hospitals and radiologists to come under their umbrella. 
 
->"If you are in the business of healthcare, you are in the business of putting yourself out of business" - Mane
+
 
 
