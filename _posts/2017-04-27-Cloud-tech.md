@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Era of Cloud Technology 
-subtitle: 5C network
+subtitle: 5C Network
 date: 2017-04-26
 bigimg: /img/cloud.jpg
 ---
