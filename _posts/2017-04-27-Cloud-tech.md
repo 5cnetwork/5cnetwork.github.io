@@ -60,3 +60,5 @@ Healthcare cloud services generally use standard protocols, so connecting them t
 
 Today the healthcare facility is enhanced by the cloud based healthcare sector that offers the potential for interoperability and integration and it also offers better security and privacy for medical data and health systems.
  
+ 
+Producing innovative, fast and cooperative cloud environment for healthcare in which all contributor can help to simplify, organise and improve the forming healthcare technology. With this solution, health ventures can stop fettering over small stuff and start centring on improving patients treatment.
