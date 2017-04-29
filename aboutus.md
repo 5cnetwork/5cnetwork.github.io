@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 5C NETWORK
-subtitle: Every hospital's and diagnostic centre's private radiologist
+subtitle: Revolutionizing Diagnosis
 ---
 
 In the mathematical area of graph theory, a clique (/ˈkliːk/ or /ˈklɪk/) is a subset of vertices of an undirected graph such that its induced subgraph is complete; that is, every two distinct vertices in the clique are adjacent.
