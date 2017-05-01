@@ -18,7 +18,7 @@ Truly, this is the conventional technique in setting up the network.
 
 At the point when your server is local, it gives us a complete physical control over the server. Keeping the critical information at priority, this way it keeps the third party away to access the information and user need not have to rely on internet connection to access the data. More on this, the administrator can upgrade the server to meet the needs of the company as it grows without any monthly hosting fee.
 
-On the drawback, at initial it requires huge capital investment in hardware and data centres. It is comparatively more happing to data loss during disaster situation due to the on-premises than the cloud technology which will there in some third party system. It also required a group of experts to maintain the data centres. The scalability is also an issue, required additional data centre investment on demand. It also needs good backup policy and backup infrastructure. 
+On the drawback, at initial it requires huge capital investment in hardware and data centres. It is comparatively more happening to data loss during disaster situation due to the on-premises than the cloud technology which will there in some third party system. It also required a group of experts to maintain the data centres. The scalability is also an issue, required additional data centre investment on demand. It also needs good backup policy and backup infrastructure. 
   
 **Cloud server:**
 
