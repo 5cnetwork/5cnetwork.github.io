@@ -28,5 +28,5 @@ On the dark side, user needs to be totally depending on the speed of the interne
 
 Seeing this huge comfort in cloud technology, around 52% of organizations were already using the cloud services for better performance, backup and disaster recovery, where remaining 48% are still in traditional technology, a very few percentage started exploring the cloud.  
    
-“_Organizations that face pressing data centre challenges can look to the cloud for flexible solutions on servers, storage and networking_” By **John Edwards** ( Veteran business technology journalist )
+>“_Organizations that face pressing data centre challenges can look to the cloud for flexible solutions on servers, storage and networking_” By **John Edwards** ( Veteran business technology journalist )
 
