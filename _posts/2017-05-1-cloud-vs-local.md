@@ -22,7 +22,9 @@ On the drawback, at initial it requires huge capital investment in hardware and 
   
 **Cloud server:**
 
-Just like on site server, a cloud based server also comes along with number of benefits and some dark side.  In cloud technology, no need for onsite hardware which is very suited to fast growing companies that may outgrow their infrastructure soon and extra resources and be accessed as when required. The scalability of cloud is probably the strongest differentiation between the cloud and the local server. All the cloud users can connect from anywhere using any devices. Where the best deal is data can be backed up in the cloud as regularly as 15 minute intervals which minimize the data loss in disaster unlike the on-premise server. 
+Just like on site server, a cloud based server also comes along with number of benefits and some dark side.  In cloud technology, no need for onsite hardware which is very suited to fast growing companies that may outgrow their infrastructure soon and extra resources and be accessed as when required. 
+
+The scalability of cloud is probably the strongest differentiation between the cloud and the local server. All the cloud users can connect from anywhere using any devices. Where the best deal is data can be backed up in the cloud as regularly as 15 minute intervals which minimize the data loss in disaster unlike the on-premise server. 
 
 On the dark side, user needs to be totally depending on the speed of the internet connection. In the event that the Internet goes down on your side or on your cloud provider side, you won't have access to any of your data. Coming together, there is always a risk of privacy or security as third party can have a direct access to our data on which many security researchers are working.
 
