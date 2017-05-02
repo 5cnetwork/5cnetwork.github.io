@@ -7,6 +7,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
+  background-image: url("/img/5cnetworklogo.jpg");
   background: #FFF;
 }
 p {
