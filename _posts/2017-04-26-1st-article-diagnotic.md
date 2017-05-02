@@ -3,6 +3,7 @@ layout: post
 title: Diagnosing the diagnostic process
 subtitle: 5C Network 
 date: 2017-04-26 
+comment: true 
 bigimg: /img/diagonising.jpg
 ---
 
