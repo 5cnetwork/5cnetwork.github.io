@@ -25,6 +25,6 @@ Tele-radiology took birth somewhat because of the unevenness between the request
 
 5C Network is such a solution providing technologist whose services are currently spread across 12 districts hospital in Karnataka, 40+ hospitals and diagnosis centres in 6 other states and 35 fully dedicated active radiologists are connected. Their service helped many private and government hospitals with count more than 10,000 scans till now during peak emergencies. 
 
-5C or 5Clique is collaborated with government of Karnataka and many other organisations to bring a better outcome in healthcare; they helped to set up facility like eKirana to connect government hospitals across Karnataka to the Bangalore Medical College and Research Institute (BMCRI) to enable immediate reading of scanned images, they also connected hospitals of major districts in Karnataka to the central hub as a part of  
+[5C or 5Clique](https://5cnetwork.github.io/aboutus/) is collaborated with government of Karnataka and many other organisations to bring a better outcome in healthcare; they helped to set up facility like eKirana to connect government hospitals across Karnataka to the Bangalore Medical College and Research Institute (BMCRI) to enable immediate reading of scanned images, they also connected hospitals of major districts in Karnataka to the central hub as a part of  
 
 **TELE-RADIOLOGY HAS POTENTIAL AS A BUSINESS MODEL AND ALSO FOR HEALTHY INDIA.**  
