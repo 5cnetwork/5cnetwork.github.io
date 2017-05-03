@@ -1,14 +1,30 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+title: Government Hospitals and Tele-radiology
+subtitle: 5C Network
+date: 2017-05-03
+bigimg: /img/government.jpg
 ---
+We all are familiar with a saying that “health is wealth”. Being in a good health itself is a best resource to become wealthy. 
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
+Healthcare is one of the largest service sectors in India as it should be by taking the population of India into consideration where both public sector and private sector plays a very active role. Government hospital provides medical facilities at very low cost to everyone where as private hospital charges higher than the government.  
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.  
+With the rapid growth of population and shortage of medical facilities provided by government, many private health care services came into scene. But according to World Bank, nearly 27crore people come under poverty line in India. So, definitely these people will prefer government hospitals.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.  
+**Problem faced by government hospitals:**
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Since the major population prefer government hospital, it automatically creates a huge queue outside every department and imbalance ratio between doctors and patients rises. Since the pressure on doctors are lesser in private sector and higher pay scale makes then move to private sector. At last the problems knock at government hospitals door due to the lack of quantity of staffs and doctors, especially in the emergency situation when immediate supports of doctors are needed. 
+
+Even after having imaging technology, if the diagnoses are not done by radiologist. A proper medical decision cannot be made for better medical treatment by the clinician. We are facing large shortage of radiologist especially in government hospitals. Satisfaction level of the patient was not found to be totally satisfied with respect to the treatment and report generation. 
+
+**Need for Solution: Tele-radiology**
+
+**Tele-radiology:** Tele-radiology is the transmission of radiological patient images, for example, x-ray, CTs, and MRIs, from with one distinct location to the next for the reasons for imparting studies to different radiologists and doctors.
+
+Tele-radiology took birth somewhat because of the unevenness between the request and availability of radiologist. The ultimate solution which we can provide to those hospitals, patients, diagnosis centres, radiologist and clinician is only through Tele-radiology. 
+
+5C Network is such a solution providing technologist whose services are currently spread across 12 districts hospital in Karnataka, 40+ hospitals and diagnosis centres in 6 other states and 35 fully dedicated active radiologists are connected. Their service helped many private and government hospitals with count more than 10,000 scans till now during peak emergencies. 
+
+5C or 5Clique is collaborated with government of Karnataka and many other organisations to bring a better outcome in healthcare; they helped to set up facility like eKirana to connect government hospitals across Karnataka to the Bangalore Medical College and Research Institute (BMCRI) to enable immediate reading of scanned images, they also connected hospitals of major districts in Karnataka to the central hub as a part of  
+
+**TELE-RADIOLOGY HAS POTENTIAL AS A BUSINESS MODEL AND ALSO FOR HEALTHY INDIA.**  
