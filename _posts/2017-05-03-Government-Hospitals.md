@@ -26,7 +26,7 @@ e-Kirana is such a technology solution whose services are currently spread acros
 
 **TELE-RADIOLOGY HAS POTENTIAL AS A BUSINESS MODEL AND ALSO FOR HEALTHY INDIA.**
 
-**India’s health:**
+**India’s Health:**
 
 "_The country is facing a shortage of allied health professionals. Demands for well qualified and skilled allied health workforce in the country is increasing every day due to advances in healthcare sector, diagnostic procedures, diagnostic and therapeutic equipment, etc_" said a senior ministry official.
 
