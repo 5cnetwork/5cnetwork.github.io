@@ -33,25 +33,21 @@ Suppose we have machines which diagnose TB of the lung, now what is the role of 
 
 **Q: Does India is lagging behind other country in the field of radiology and its technology? If does, what can our future step?**
 
-**A:** _If we compare ourselves with other countries, they have progressed much better than India as software concern and updated machine. We are up with other countries on base line of radiology but in the field of research and further improvising we are lagging. With respect to the variety of cases and the quality of cases, India is number one because of the the large population. So the radiologist trained in India can report to any other country because they have seen the rarest of the rare cases in India.   
-The solution to overcome this problem is more funding from the Government or WHO as more number of machines are required with respect to the population of the country._
-
-**Q: If the future of radiology needs to survive then what suggestions you want to give to the youth and the entrepreneur in India?**
-
-**A:** _I would suggest young doctors to do radiology because there is a huge scarcity of radiologist in the world. Since there are only few seats they should be highly inside their work.  So i will definitely recommend young one to do radiology and serve the society for betterment. As entrepreneur concern, there are lots of them who are coming up with Tele-radiology technology. Tele-radiology is not the only thing that entrepreneur needs to concentrate; there are robotic biopsy machine where robot can perform biopsy and they do the interventional, they can also work on machine which can detect diseases on its own. 
-E.g. suppose we have device which can detect Tuberculosis of chest of 500 people, if not accurately diagnosed but at least it can segregate the normal from the diseased one. At last the confirmation can be made by the radiologist. Therefore, the entrepreneur got a very major role to play because there are lots of room left to discover and invent._
+**A:** _If we compare ourselves with other countries, I must say they have progressed much better than India, particularly if you look at software and machines. Even today, machines are imported to india from different countries. We are up there with other countries on radiology expertise day-to-day but in the field of research and further improvisization, we are lagging. With respect to the variety of cases and the quality of cases, India is number one because of the the large population, and the varieties of cases that we see. A radiologist trained in India can report for any other country because they have seen the rarest of the rare cases in India.   
+The solution to overcome this problem that I spoke about is more funding from the Government or WHO, as more number of machines are required. We are 130 Crore people!_
 
 **Q: What is the problem regarding the current generation radiologists?**
 
-**A:** _Current generation radiologists are good, only thing is they are lagging in
-Clinical skills. They are good in reading images and technologies but clinical skills like touching the patient, feeling them and making them comfortable are absent these days. Therefore, younger generation should clinically more involve._
+**A:** _Current generation radiologists are extremely good, only thing is that they are lagging in
+Clinical skills. They are good in reading images and working with technologies, but clinical skills like touching the patient, feeling them and making them comfortable are absent these days. Therefore, younger generation should be more involved clinically, I feel._
 
 **Q: Quality is everything for radiologist, but in a world where turn around time is considered as king, how do experts like you manage time and quality expectation?**
 
-**A:** _Any doctor for that matter the quality in report and the quality in treatment is the first thing they required. The quality should never be compromise by any doctor or radiologist because we are playing with life. Since the quality is very important it doesn’t matter whether we have time or not, whether a huge population is there or not, we don’t have an option because we don’t have second choice to sacrifice quality. Just because large queue is there I cannot give sub-standard or second class report and play with patient’s life. Suppose 1000 patients are waiting and I can see only 500 till my last breath but I’ll give the quality to the 500, the best whatever I have to the 500 patients and I’ll finished off. For the next 500 either next radiologist or next team of doctors will be treating. Just because I have to treat 1000 of patient we don’t come down with the quality. 
-If we come down with the quality then the whole point of health care is gone._
+**A:** _For any doctor, quality of work and the quality in treatment is the most important thing. The quality should never be compromised by any doctor or radiologist because we are dealing with life here. Since the quality is very important, it doesn’t matter whether we have time or not, whether we have a huge population or not: we don’t have an option because we cannot sacrifice quality. 
+
+If quality falls, tthe whole point of healthcare is gone._
 
 >**Message to Young Doctors**
 
->_“ To young doctors, I always tell them to take up radiology as their profession since it is very important subject till date where it is changing life’s of patients at great extend and also for clinicians to diagnose. We are playing major role in others life more than a doctor as a radiologist. Therefore i suggest young generation to opt for radiology, work hard in the field, excel, produce result and finally deliver to the patients. Contributing to our society should be our first priority.”_
+>_“ To young doctors, I advise you to take up radiology as a profession since it is a very important and professionally fulfilling subject, which is changing the lives of patients to a great extent. Therefore I suggest the young generation to opt for radiology, work hard in the field and excel. Contributing to our society should be our first priority.”_
 
