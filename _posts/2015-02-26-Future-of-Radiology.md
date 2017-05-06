@@ -3,7 +3,7 @@ layout: post
 title: The Future of Radiology: A Radiologist’s Perspective 
 subtitle: 5C Network 
 date: 2017-05-06 
-bigimg: /img/drvijay.jpg 
+bigimg: /img/drvijay.jpg
 ---
 
 **Q: What is your view about the future of radiology in India?**
