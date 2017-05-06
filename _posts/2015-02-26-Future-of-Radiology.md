@@ -1,10 +1,13 @@
 ---
 layout: post
-title: The Future of Radiology: A Radiologist’s Perspective 
+title: The Future of Radiology
 subtitle: 5C Network 
 date: 2017-05-06 
 bigimg: /img/drvijay.jpg
 ---
+## The Future of Radiology: A Radiologist’s Perspective 
+
+The future of radiology: a radiologist's perspective is an article based on the interview with one of the youngest Professor in Karnataka state. That honoured person is Dr. Vijay Kumar, Professor of Radiology at BMC (Bangalore Medical College & Research Institute). 
 
 **Q: What is your view about the future of radiology in India?**
 
