@@ -49,4 +49,4 @@ The advantages to patients understanding their own radiology reports are it empo
 
 After the briefing, you might be thinking that “yes, this sounds easy”. We may not be able to assure you that you will understand all those medical jargon but you will be in the condition to relate it to your own body. If we don’t understand anything but at least we can ask some questions to the doctor as we have some prior knowledge of the reporting.   
 
-## GOOD Luck!
+## GOOD LUCK!
