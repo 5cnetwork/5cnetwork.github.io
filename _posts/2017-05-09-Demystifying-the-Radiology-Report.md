@@ -31,8 +31,9 @@ Personal details like age, weight, height, gender, etc.
 The past medical history plays a very crucial role as many time radiologists take that as a reference and good exact medical history can help a lot to study image more accurately.
 
 **Comparison**
-As the name itself suggests, the radiologist is comparing the current patient’s medical images with any of his/her previous case of the same region.  
 
+As the name itself suggests, the radiologist is comparing the current patient’s medical images with any of his/her previous case of the same region.  
+ 
 **Technique**
 
 This section is not important to understand or read being a patient as here just for the future reference for radiologists they will note down how they performed the study of the images. So you can usually skip this section without worrying too much about it
