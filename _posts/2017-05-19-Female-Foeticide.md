@@ -10,7 +10,7 @@ Many people think how difficult it to give birth girl child in a society where s
 
 Female foeticide is one of the most sensitive issues today. Different people have their different view on that. Female feticide is a process of aborting female fetuses after about 18 weeks of gestation.
 
-**Ultrasound & its importance **
+**Ultrasound & its importance**
 
 It is also known as sonogram and it uses sound wave at higher frequencies which stimulate the human tissue. This stimulation allows professionals to monitor images such as the flow of blood and the movement of internal organs. Unlike other imaging technologies, it doesn’t use radiation. Hence this technology is one of the preferred methods to see the developing fetus and plus it’s lower in cost.
 
