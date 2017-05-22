@@ -2,7 +2,7 @@
 layout: post
 title: Female Foeticide Issue and PCPNDT Act
 subtitle: 5C Network
-date: 2017-05-26
+date: 2017-05-20
 bigimg: /img/femalefoeticide.jpg
 ---
 
