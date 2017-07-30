@@ -6,6 +6,8 @@ date: 2017-07-05
 bigimg: /img/telemedicine.jpg
 ---
 
+Dr. L S Sathyamurthy is a towering figure in the field of Telemedicine today. One could say that his efforts during his tenure with ISRO gave wings to what is now a vibrant ecosystem in India, with private players, governments and NGOs all using this concept to bridge the healthcare delivery gap. His work as the President of The Telemedicine Society of India bears testament to his passion and drive to solve India's widespread Healthcare problem through technology. We had an opportunity to sit down with this legend and pick his brain on all things Telehealth.
+
 **Q:  What inspired you to start telemedicine in India and who are the major contributor?**
 
 _A: I was the program director of telemedicine in the year 2001 and I was asked by the chairman of ISRO Dr. kartus to start the telemedicine program since the ISRO has the satellite connectivity. There we tried to bring in technology and the doctors together to give something to the nation by connecting remote rural hospitals to the higher level specialized hospital. That’s how I was introduced to the telemedicine technology._
