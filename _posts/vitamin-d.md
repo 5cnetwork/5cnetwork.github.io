@@ -5,7 +5,6 @@ subtitle: 5C Network
 date: 2018-06-07 
 bigimg: /img/demystifying.jpg
 ---
-India needs it’s booster of shot of Vitamin D
 It’s the summer and we’re all getting our fair share of sun (and getting darker in the process!). Inspite of the record temperatures (and probably because of it), the world deficiency of Vitamin D, usually derived from exposure to sunlight. There is another serious deficiency that all of us, especially from India, are suffering from – Vitamin D – D for Doctor.
 
 The healthcare system in India is growing at a very fast pace due to the advancements in technology, yet there are certain deficiencies that one cannot ignore. There is a vast difference in the health care centers between the rural and the urban areas as well as the private and government hospitals. 
