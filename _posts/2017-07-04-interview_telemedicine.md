@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Hour with Dr. Sathyamurthy 
+title: An Hour with Dr. L S Sathyamurthy 
 subtitle: 5C Network
 date: 2017-07-05
 bigimg: /img/telemedicine.jpg
